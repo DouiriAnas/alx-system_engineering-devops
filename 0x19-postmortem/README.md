@@ -1,11 +1,11 @@
-- Consider what improvements can be made for future incidents.
-stmortem Report
+
+# Postmortem Report
 
 ## Incident report for 504 error / Site Outage
 
 ### Summary
 
-On September 11th, 2018 at midnight, the server access went down, resulting in a 504 error for anyone trying to access the website. The server is based on a LAMP stack.
+On June 10th, 2024 at midnight, the server access went down, resulting in a 504 error for anyone trying to access the website. The server is based on a LAMP stack.
 
 ### Timeline
 
